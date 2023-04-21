@@ -45,6 +45,7 @@ You can filter your appointments by location and status by selecting the corresp
 This app was developed by [Bright Abety](https://github.com/kagebright)
 
 ## Screenshots
+![Screenshot 2023-04-21 at 7 58 46 PM](https://user-images.githubusercontent.com/113262558/233750509-76997296-a081-4807-93c0-0538a3da064f.png)
 
 ## License
 
