@@ -1,4 +1,4 @@
-import { format, isEqual } from 'date-fns';
+import { format } from 'date-fns';
 import './style.css'
 
 function CalendarDay({ day, days }) {
